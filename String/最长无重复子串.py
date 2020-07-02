@@ -32,3 +32,4 @@ class Solution:
 if __name__ == '__main__':
     test = "pwwkewtasc"
     print(Solution().lengthOfLongestSubstring(test))
+    
